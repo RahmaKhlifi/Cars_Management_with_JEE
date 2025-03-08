@@ -13,15 +13,11 @@ A web application for managing car inventory using Java Enterprise Edition (JEE)
   - View all cars in a responsive table.
 - **Search & Filter**: Search cars by model, brand, or other attributes.
 - **Pagination**: Navigate through car listings with paginated results.
-- **Responsive UI**: Built with Bootstrap for a mobile-friendly experience.
 
 ## Technologies Used
 
 - **Backend**: Java EE (Servlets, JSP, JDBC)
-- **Database**: MySQL
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Server**: Apache Tomcat
-- **Build Tool**: Maven (optional)
 
 ## Installation
 
@@ -31,10 +27,9 @@ git clone https://github.com/RahmaKhlifi/Cars_Management_with_JEE.git
 ```
 
 ### 2. Import the Project:
-Open Eclipse/IntelliJ and import as a Maven or Dynamic Web Project.
+Open Eclipse/IntelliJ and import as a Dynamic Web Project.
 
 ### 3. Database Setup:
-- Install MySQL and create a database named `car_management`.
 - Run the SQL script located in `src/main/resources/database.sql` to create tables and sample data.
 
 ### 4. Configure Database Connection:
