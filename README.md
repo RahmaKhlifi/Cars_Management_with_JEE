@@ -92,9 +92,6 @@ Contributions are welcome! Follow these steps:
 
 Please report bugs or suggest enhancements via GitHub Issues.
 
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contact
 
